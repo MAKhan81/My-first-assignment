@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+
+#hero{
+    height: 520px;
+    background-image: url(../assets/Hero-bg.png);
+    background-size: cover;
+    background-position: center;
+    justify-content: center;
+    align-items: center;
+}
+#hero .hero-content{
+    width: 800px;
+    margin: 0 auto;
+    justify-content: center;
+}
